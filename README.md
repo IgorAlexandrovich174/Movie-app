@@ -1,1 +1,1 @@
-<a link="https://movie-app-drab-five.vercel.app/">Movies App</a>
+<a href="https://movie-app-drab-five.vercel.app/">Movies App</a>
